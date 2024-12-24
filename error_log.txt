@@ -94,3 +94,348 @@ Error processing ./train/subject-1/non_fall/1_walking: [Errno 21] Is a directory
 Error processing ./train/subject-1/non_fall/1_picking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/train/subject-1/non_fall/1_picking'
 Error processing ./train/subject-1/non_fall/1_jumping: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/train/subject-1/non_fall/1_jumping'
 Error processing ./train/subject-1/non_fall/1_laying: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/train/subject-1/non_fall/1_laying'
+Error processing ./train/subject-2/fall/2_forward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/fall/2_forward_falls'
+Error processing ./train/subject-2/fall/2_standing_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/fall/2_standing_falls'
+Error processing ./train/subject-2/fall/2_right_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/fall/2_right_falls'
+Error processing ./train/subject-2/fall/2_sitting_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/fall/2_sitting_falls'
+Error processing ./train/subject-2/fall/2_backward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/fall/2_backward_falls'
+Error processing ./train/subject-2/fall/2_left_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/fall/2_left_falls'
+Error processing ./train/subject-2/non_fall/2_squat: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/non_fall/2_squat'
+Error processing ./train/subject-2/non_fall/2_picking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/non_fall/2_picking'
+Error processing ./train/subject-2/non_fall/2_walking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/non_fall/2_walking'
+Error processing ./train/subject-2/non_fall/2_laying: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/non_fall/2_laying'
+Error processing ./train/subject-2/non_fall/2_stretching: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/non_fall/2_stretching'
+Error processing ./train/subject-2/non_fall/2_jumping: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-2/non_fall/2_jumping'
+Error processing ./train/subject-4/fall/4_backward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/fall/4_backward_falls'
+Error processing ./train/subject-4/fall/4_standing_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/fall/4_standing_falls'
+Error processing ./train/subject-4/fall/4_right_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/fall/4_right_falls'
+Error processing ./train/subject-4/fall/4_left_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/fall/4_left_falls'
+Error processing ./train/subject-4/fall/4_forward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/fall/4_forward_falls'
+Error processing ./train/subject-4/fall/4_sitting_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/fall/4_sitting_falls'
+Error processing ./train/subject-4/non_fall/4_squat: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/non_fall/4_squat'
+Error processing ./train/subject-4/non_fall/4_laying: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/non_fall/4_laying'
+Error processing ./train/subject-4/non_fall/4_stretching: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/non_fall/4_stretching'
+Error processing ./train/subject-4/non_fall/4_jumping: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/non_fall/4_jumping'
+Error processing ./train/subject-4/non_fall/4_picking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/non_fall/4_picking'
+Error processing ./train/subject-4/non_fall/4_walking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-4/non_fall/4_walking'
+Error processing ./train/subject-3/fall/3_backward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/fall/3_backward_falls'
+Error processing ./train/subject-3/fall/3_left_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/fall/3_left_falls'
+Error processing ./train/subject-3/fall/3_standing_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/fall/3_standing_falls'
+Error processing ./train/subject-3/fall/3_right_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/fall/3_right_falls'
+Error processing ./train/subject-3/fall/3_sitting_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/fall/3_sitting_falls'
+Error processing ./train/subject-3/fall/3_forward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/fall/3_forward_falls'
+Error processing ./train/subject-3/non_fall/3_walking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/non_fall/3_walking'
+Error processing ./train/subject-3/non_fall/3_stretching: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/non_fall/3_stretching'
+Error processing ./train/subject-3/non_fall/3_picking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/non_fall/3_picking'
+Error processing ./train/subject-3/non_fall/3_squat: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/non_fall/3_squat'
+Error processing ./train/subject-3/non_fall/3_jumping: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/non_fall/3_jumping'
+Error processing ./train/subject-3/non_fall/3_laying: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-3/non_fall/3_laying'
+Error processing ./train/subject-1/fall/1_sitting_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/fall/1_sitting_falls'
+Error processing ./train/subject-1/fall/1_forward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/fall/1_forward_falls'
+Error processing ./train/subject-1/fall/1_left_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/fall/1_left_falls'
+Error processing ./train/subject-1/fall/1_right_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/fall/1_right_falls'
+Error processing ./train/subject-1/fall/1_standing_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/fall/1_standing_falls'
+Error processing ./train/subject-1/fall/1_backward_falls: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/fall/1_backward_falls'
+Error processing ./train/subject-1/non_fall/1_stretching: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/non_fall/1_stretching'
+Error processing ./train/subject-1/non_fall/1_squat: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/non_fall/1_squat'
+Error processing ./train/subject-1/non_fall/1_walking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/non_fall/1_walking'
+Error processing ./train/subject-1/non_fall/1_picking: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/non_fall/1_picking'
+Error processing ./train/subject-1/non_fall/1_jumping: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/non_fall/1_jumping'
+Error processing ./train/subject-1/non_fall/1_laying: [Errno 21] Is a directory: '/Users/nasywaanaa/Documents/nasywaa/ccc/5thsemester/Mata Kuliah/Coding/DataSlayer/HumanFallDetectionClassification/train/subject-1/non_fall/1_laying'
+Error processing ./train/subject-2/fall/2_forward_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame018.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame019.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame031.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame025.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame033.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame027.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame026.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame032.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame036.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame022.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame023.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame037.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame009.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame021.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame018.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame019.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame031.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame025.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame033.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame027.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame026.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame032.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame036.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame022.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame023.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame037.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame009.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame021.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame035.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame034.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame020.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame008.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame041.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame040.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame042.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame043.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame005.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame011.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame039.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame038.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame010.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame004.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame012.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame006.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame007.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame013.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame017.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame003.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame002.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame016.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame028.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame014.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame015.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame001.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame029.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame018.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame019.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame031.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame025.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame033.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame027.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame026.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame032.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame036.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame022.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame023.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame037.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame009.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame021.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame035.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame034.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame020.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame008.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame047.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame053.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame052.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame046.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame050.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame044.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame045.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame051.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame055.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame041.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame040.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame054.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame042.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame056.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame057.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame043.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame066.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame065.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame059.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame058.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame064.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame048.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame060.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame061.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame049.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame063.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame062.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame005.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame011.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame039.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame038.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame010.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame004.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame012.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame006.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame007.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame013.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame017.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame003.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame002.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame016.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame028.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame014.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame015.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame001.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_standing_falls/frame029.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame018.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame019.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame031.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame025.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame033.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame027.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame026.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame032.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame036.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame022.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame023.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame037.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame009.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame021.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame035.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame034.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame020.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame008.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame047.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame046.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame044.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame045.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame041.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame040.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame042.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame043.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame005.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame011.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame039.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame038.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame010.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame004.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame012.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame006.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame007.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame013.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame017.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame003.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame002.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame016.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame028.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame014.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame015.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame001.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_right_falls/frame029.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame018.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame019.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame031.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame025.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame033.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame027.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame026.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame032.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame036.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame022.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame023.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame037.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame009.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame021.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame035.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame034.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame020.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame008.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame047.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame053.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame052.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame046.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame050.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame044.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame045.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame051.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame069.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame055.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame041.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame040.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame054.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame068.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame042.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame056.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame057.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame043.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame066.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame067.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame071.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame065.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame059.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame058.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame064.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame070.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame048.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame060.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame061.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame049.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame063.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame062.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame005.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame011.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame039.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame038.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame010.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame004.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame012.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame006.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame007.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame013.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame017.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame003.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame002.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame016.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame028.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame014.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame015.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame001.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_sitting_falls/frame029.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame018.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame019.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame031.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame025.jpg: [Errno 89] Operation canceled
+Error processing ./train/subject-2/fall/2_backward_falls/frame033.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame027.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame026.jpg: [Errno 89] Operation canceled
+Error processing ./train/subject-2/fall/2_backward_falls/frame032.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame036.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame022.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame023.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame037.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame009.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame021.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame035.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame034.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame020.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame008.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame047.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame053.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame052.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame046.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame050.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame044.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame045.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame051.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame041.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame040.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame042.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame043.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame048.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame049.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame005.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame011.jpg: [Errno 89] Operation canceled
+Error processing ./train/subject-2/fall/2_backward_falls/frame039.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame038.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame010.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame004.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame012.jpg: [Errno 89] Operation canceled
+Error processing ./train/subject-2/fall/2_backward_falls/frame006.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame007.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame013.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame017.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_backward_falls/frame002.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame024.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame030.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame018.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame019.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame031.jpg: cannot write mode RGBA as JPEG
+Error processing ./train/subject-2/fall/2_forward_falls/frame025.jpg: cannot write mode RGBA as JPEG
